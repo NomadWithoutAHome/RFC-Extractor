@@ -1,6 +1,6 @@
 # RFC Extractor for Ravenfield
 
-A modern, user-friendly tool for extracting `.bytes` files from Ravenfield's `.rfc` files. Built with Python and Kivy.
+A modern, user-friendly tool for extracting `.bytes` files from Ravenfield's `.rfc` files. Built with Python and Kivy, Mostly used for Mutators.
 
 ![RFC Extractor Interface](Images/text.png)
 

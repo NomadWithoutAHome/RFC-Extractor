@@ -6,12 +6,8 @@ A modern, user-friendly tool for extracting `.bytes` files from Ravenfield's `.r
 
 ## Features
 
-- 🎮 Steam-styled modern interface
-- 📂 Native Windows file dialog for easy file selection
-- 📊 Real-time progress tracking
 - 🔄 Automatic file name preservation
 - 💾 Batch extraction support
-- 🎯 Focused on Ravenfield mod files
 
 ## Installation
 

@@ -1,0 +1,2 @@
+# RFC Extractor
+ RFC Extractor is a specialized tool designed for Ravenfield modders and players. It provides a sleek, Steam-styled interface to extract .bytes files from Ravenfield's .rfc mod files. The tool features real-time extraction progress tracking, native Windows file selection, and automatic file name preservation. Built with Python and Kivy, it offers a user-friendly way to work with Ravenfield mod content.
